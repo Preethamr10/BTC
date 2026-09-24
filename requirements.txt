@@ -1,0 +1,8 @@
+docling
+hierarchical
+openai
+groq
+numpy
+python-dotenv
+torch
+rapidocr
