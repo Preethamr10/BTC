@@ -4,3 +4,7 @@ __pycache__/
 .DS_Store
 .vscode/
 .idea/
+
+# Large intermediate/output JSON files (too big for GitHub)
+ooouuuttt/*.json
+toc_output/*.json

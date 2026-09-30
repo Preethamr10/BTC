@@ -1,0 +1,47 @@
+Cigna_ACDF.pdf
+├── S0 | CIGNA MEDICAL COVERAGE POLICIES - MUSCULOSKELETAL CMM-601: Anterior Cervical Discectomy...
+│   ├── S1 | Effective Date: August 04, 2026
+│   ├── S2 | Instructions for use
+│   └── S3 | Table of Contents
+├── S4 | CMM-601.1: General Guidelines
+│   ├── S5 | Application of Guideline
+│   ├── S6 | Urgent/Emergent Indications/Conditions
+│   └── S7 | General Guidelines
+│       └── S8 | Health Equity Considerations
+├── S9 | CMM-601.2: Osteotomy
+│   └── S10 | Anterior Osteotomy or Vertebral Column Resection
+├── S11 | CMM-601.3: Anterior Cervical Discectomy
+├── S12 | CMM-601.3: Anterior Cervical Discectomy
+├── S13 | CMM-601.4: Initial Primary Anterior Cervical Discectomy and Fusion (ACDF)
+├── S14 | CMM-601.4: Initial Primary Anterior Cervical Discectomy and Fusion (ACDF)
+│   ├── S15 | Radiculopathy
+│   └── S16 | Myelopathy
+├── S17 | CMM-601.5: Anterior Cervical Corpectomy
+├── S18 | CMM-601.5: Anterior Cervical Corpectomy
+├── S19 | CMM-601.6: Repeat Anterior Cervical Discectomy and Fusion (ACDF) at the Same Level
+├── S20 | CMM-601.6: Repeat Anterior Cervical Discectomy and Fusion (ACDF) at the Same Level
+│   ├── S21 | Malposition or Failure of Implant/Instrumentation or Structural Bone Graft
+│   ├── S22 | Unremitting Neck Pain with Pseudoarthrosis
+│   ├── S23 | Radiculopathy with Pseudoarthrosis
+│   └── S24 | Myelopathy with Pseudoarthrosis
+├── S25 | CMM-601.7: Adjacent Segment Disease
+├── S26 | CMM-601.7: Adjacent Segment Disease
+│   ├── S27 | Radiculopathy
+│   └── S28 | Myelopathy
+├── S29 | CMM-601.8: ACDF Following Failed Cervical Disc Arthroplasty Surgery
+├── S30 | CMM-601.8: ACDF Following Failed Cervical Disc Arthroplasty Surgery
+│   ├── S31 | Failed Cervical Disc Arthroplasty Implant
+│   ├── S32 | Unremitting Neck Pain
+│   ├── S33 | Radiculopathy
+│   └── S34 | Myelopathy
+├── S35 | CMM-601.9: Non-Indications
+│   ├── S36 | Not Medically Necessary
+│   └── S37 | Experimental, Investigational, or Unproven (EIU)
+├── S38 | CMM-601.9: Non-Indications
+│   ├── S39 | Codes (CMM-601)
+│   └── S40 | Codes (CMM-601)
+└── S41 | Evidence Discussion (CMM-601)
+    ├── S42 | Evidence Discussion (CMM-601)
+    │   └── S43 | Anterior Cervical Discectomy and Fusion
+    ├── S44 | References (CMM-601)
+    └── S45 | References (CMM-601)

@@ -1,0 +1,61 @@
+Cigna_Lumbar_Fusion.pdf
+├── S0 | CIGNA MEDICAL COVERAGE POLICIES - MUSCULOSKELETAL
+├── S1 | CMM-609: Lumbar Fusion (Arthrodesis)
+│   ├── S2 | Effective Date: August 04, 2026
+│   ├── S3 | Instructions for use
+│   └── S4 | Table of Contents
+├── S5 | CMM-609.1: General Guidelines
+│   └── S6 | Guideline Page
+├── S7 | CMM-609.1: General Guidelines.............................................................
+├── S8 | CMM-609.1: General Guidelines
+│   ├── S9 | Application of Guideline
+│   ├── S10 | Urgent/Emergent Indications/Conditions
+│   └── S11 | Health Equity Considerations
+├── S12 | CMM-609.2: Osteotomy
+│   ├── S13 | Guideline Page
+│   ├── S14 | Posterior Column Osteotomy (PCO)
+│   └── S15 | Three-Column Osteotomy
+├── S16 | CMM-609.2: Osteotomy
+├── S17 | CMM-609.3: Pediatric Spinal Deformity
+│   └── S18 | Guideline Page
+├── S19 | CMM-609.3: Pediatric Spinal Deformity
+│   ├── S20 | Pediatric Lumbar Fusion
+│   └── S21 | Pediatric Osteotomy
+├── S22 | CMM-609.4: Lumbar Fusion (Arthrodesis) with Decompression (Indirect or Direct)
+├── S23 | CMM-609.4: Lumbar Fusion (Arthrodesis) with Decompression (Indirect or Direct)
+│   ├── S24 | Actual Instability
+│   ├── S25 | Anticipated Iatrogenic Instability
+│   ├── S26 | Adult Symptomatic Degenerative Spinal Deformity
+│   ├── S27 | Initial Disc Herniation
+│   ├── S28 | Recurrent Disc Herniation
+│   └── S29 | Second or Greater Recurrent Disc Herniation
+├── S30 | CMM-609.5: Lumbar Fusion (Arthrodesis) without Decompression
+├── S31 | CMM-609.5: Lumbar Fusion (Arthrodesis) without Decompression
+│   ├── S32 | Degenerative Spondylolisthesis without Spondylolysis
+│   ├── S33 | Spondylolisthesis with Spondylolysis (e.g., Isthmic Spondylolisthesis)
+│   ├── S34 | Discogenic Lower Back Pain/Degenerative Disc Disease
+│   └── S35 | Adult Symptomatic Degenerative Spinal Deformity
+├── S36 | CMM-609.6: Adjacent Segment Disease
+│   └── S37 | Guideline Page
+├── S38 | CMM-609.6: Adjacent Segment Disease
+├── S39 | CMM-609.7: Lumbar Fusion (with or without Decompression) Following Failed Lumbar Disc A...
+├── S40 | CMM-609.7: Lumbar Fusion (with or without Decompression) Following Failed Lumbar Disc A...
+│   ├── S41 | Failed Lumbar Disc Arthroplasty Implant
+│   └── S42 | Evidence of Neural Structure Compression
+├── S43 | CMM-609.8: Repeat Lumbar Fusion (Arthrodesis) at the Same Level
+├── S44 | CMM-609.8: Repeat Lumbar Fusion (Arthrodesis) at the Same Level
+│   ├── S45 | Malposition or Failure of Implant/Instrumentation or Structural Bone Graft
+│   └── S46 | Symptomatic Pseudoarthrosis
+├── S47 | CMM-609.9: Non-Indications
+│   └── S48 | Guideline Page
+│       ├── S49 | Not Medically Necessary
+│       └── S50 | Experimental, Investigational, or Unproven (EIU)
+├── S51 | CMM-609.9: Non-Indications
+│   ├── S52 | Codes (CMM-609)
+│   └── S53 | Codes (CMM-609)
+└── S54 | Evidence Discussion (CMM-609)
+    ├── S55 | Evidence Discussion (CMM-609)
+    │   └── S56 | Lumbar Fusion (Arthrodesis)
+    ├── S57 | References (CMM-609)
+    ├── S58 | References (CMM-609)......................................................................
+    └── S59 | References (CMM-609)

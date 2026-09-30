@@ -10,11 +10,11 @@ from docling.document_converter import DocumentConverter
 # ============================================================
 
 PDF_PATH = Path(
-    "/home/preetham/CIGNA/Data/Cigna_ACDF.pdf"
+    "/Users/preethamramachandra/Desktop/PA/PA/Data/Cigna_Knee Replacement Arthroplasty.pdf"
 )
 
 OUTPUT_DIR = Path(
-    "/home/preetham/CIGNA/OUTPUT_trail"
+    "/Users/preethamramachandra/Desktop/PA/PA/ooouuuttt"
 )
 
 OUTPUT_FILE = OUTPUT_DIR / "structured_document.md"
